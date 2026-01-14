@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Brand New Dawn",
+  "base_artist": "R1ze [Renga Nishizono(CV: Jin Ogasawara), Kafka Oguro(CV: Chiaki Kobayashi), Ten Murakumo(CV: Yoshiki Nakajima), Yukikaze Kamina(CV: Toshinari Fukamachi), Lu Liguang(CV: Masaaki Mizunaka)]",
+  "createdAt": "2026-01-14T06:47:05.854379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brand New Dawn",
+      "artist": "HAWAIIAN6",
+      "has_synced": true,
+      "path": "select/01_Brand_New_Dawn_HAWAIIAN6.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brand New Dawn",
+      "artist": "R1ze",
+      "has_synced": true,
+      "path": "select/02_Brand_New_Dawn_R1ze.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brand New Dawn",
+      "artist": "Freezes Deyna",
+      "has_synced": false,
+      "path": "select/03_Brand_New_Dawn_Freezes_Deyna.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brand New Dawn",
+      "artist": "R1ze",
+      "has_synced": false,
+      "path": "select/pl_01_Brand_New_Dawn_R1ze.txt"
+    }
+  ]
+}
